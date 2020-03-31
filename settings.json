@@ -1,0 +1,10 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.fontFamily": "Fira Code, Victor Mono",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true 
+}
